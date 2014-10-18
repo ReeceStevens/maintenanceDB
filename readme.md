@@ -17,10 +17,10 @@ alexgerome.me
 
 
 Users:
--agerome
--reece
--kawaiijr
--davebarks
+- agerome
+- reece
+- kawaiijr
+- davebarks
 
 =============
 
