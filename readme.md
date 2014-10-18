@@ -15,15 +15,12 @@ Server is up and running, located at:
 
 alexgerome.me
 
+
 Users:
-
-agerome
-
-reece
-
-kawaiijr
-
-davebarks
+-agerome
+-reece
+-kawaiijr
+-davebarks
 
 =============
 
