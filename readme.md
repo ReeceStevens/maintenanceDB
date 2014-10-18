@@ -13,3 +13,9 @@ Implementing the MongoDB API.
 
 Server is up and running, located at:
 alexgerome.me
+
+Users:
+agerome
+reece
+kawaiijr
+davebarks
