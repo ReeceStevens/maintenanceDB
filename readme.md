@@ -19,3 +19,15 @@ agerome
 reece
 kawaiijr
 davebarks
+
+=============
+
+Program Outline:
+
+User inputs a inventory in .xls or .csv format.
+
+Python script will parse the inventory file for the data we need (device name, 
+serial no., date last serviced). Notification system will primarily use the 
+installed os notification library (libnotify for linux, systray for Windows and Mac)
+
+User interface will be coded in Python using QT
