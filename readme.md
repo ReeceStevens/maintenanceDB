@@ -11,13 +11,18 @@ Implementing the MongoDB API.
 
 =============
 
-Server is up and running, located at:\n
+Server is up and running, located at:
+
 alexgerome.me
 
-Users:\n
-agerome\n
-reece\n
-kawaiijr\n
+Users:
+
+agerome
+
+reece
+
+kawaiijr
+
 davebarks
 
 =============
