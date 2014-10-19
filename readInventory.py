@@ -38,4 +38,6 @@ def xls2csv(xlsfile):
 
     csvfile.close();
     return 'inventory_maintenance)db.csv';
-readInput('TEST.xlsx')
+
+if __name__ == "__main__":
+    readInput(sys.argv[1]);
