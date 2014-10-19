@@ -50,7 +50,7 @@ def xls2csv(xlsfile):
         writer.writerow(sh.row_values(row));
 
     csvfile.close();
-    return 'inventory_maintenance)db.csv';
+    return 'inventory_maintenance_db.csv';
 
 if __name__ == "__main__":
     readInput(sys.argv[1]);
