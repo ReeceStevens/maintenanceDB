@@ -31,8 +31,8 @@ def parsecsv(csvfile):
     with open(csvfile, 'rb') as myFile:
         # Look for the files we need
         parser = csv.reader(myFile, delimiter=',', quotechar='"');
-        for row in parser[1:]:
-            # What about header files? Skipping first row for now
+        for row in parser:
+            # What about header files?
             row.append("No PM done"); # Append the last PM date column to each row
             row.append("No PM scheduled"); # Append the next scheduled PM date field
 
@@ -51,6 +51,3 @@ def xls2csv(xlsfile):
 
     csvfile.close();
     return 'inventory_maintenance_db.csv';
-
-if __name__ == "__main__":
-    readInput(sys.argv[1]);
